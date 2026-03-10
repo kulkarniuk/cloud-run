@@ -4,6 +4,7 @@ on:
   push:
     branches:
       - main
+      - fet-cloudrun
 
 env:
   PROJECT_ID: sturdy-apricot-180005
